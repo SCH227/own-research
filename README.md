@@ -49,5 +49,8 @@ ReDoS in **Es5-ext**. Top 5000 most downloaded, NPM, 2024.
 ### 14. CVE-2024-41124
 No HTTPs in **Puncia**. PyPI, 2024.
 
+### 15. CVE-2025-46726
+XXE in **Langroid**. #12163, PyPI, May 2025.
+
 
 

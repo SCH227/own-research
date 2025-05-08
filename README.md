@@ -2,7 +2,7 @@
 
 ## Content Summary
 
-I will be uploading a write-up for almost all in different folders organized by CVE ID. Not including yet-unpublished vulnerabilities
+I will be uploading a write-up for almost all in different folders organized by year, and CVE ID/GHSA ID or alike. Not including yet-unpublished vulnerabilities
 
 
 ### 1.CVE-2022-40897

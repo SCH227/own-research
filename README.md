@@ -52,5 +52,6 @@ No HTTPs in **Puncia**. PyPI, 2024.
 ### 15. CVE-2025-46726
 XXE in **Langroid**. #12163, PyPI, May 2025.
 
-
+### 16. CVE-2025-47273
+Path Traversal leading to AFO in **Setuptools**. #8, PyPI, May 2025.
 

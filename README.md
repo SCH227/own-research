@@ -55,3 +55,10 @@ XXE in **Langroid**. #12163, PyPI, May 2025.
 ### 16. CVE-2025-47273
 Path Traversal leading to AFO in **Setuptools**. #8, PyPI, May 2025.
 
+### 17. CVE-2025-46724
+Code Injection leading to RCE in **Langroid**. #12163, PyPI, May 2025.
+
+### 18. CVE-2025-46725
+Code Injection leading to RCE in **Langroid**. #12163, PyPI, May 2025.
+
+
